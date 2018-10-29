@@ -1,0 +1,21 @@
+{
+    "name": "zacksleo/adminlte-assets",
+    "description": "adminlte assets",
+    "type": "template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zacksleo",
+            "email": "zacksleo@gmail.com"
+        }
+    ],
+    "require": {
+        "bower-asset/jquery": ">=1.9.0 <4.0.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
